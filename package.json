@@ -1,0 +1,31 @@
+{
+  "name": "ca.jquery.panels",
+  "version": "0.1.0",
+  "description": "A simple and elegant jQuery Panels plugin",
+  "main": "ca.jquery.panels.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "grunt test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cleverage/ca.jquery.panels.git"
+  },
+  "keywords": [
+    "jquery",
+    "plugin",
+    "panel",
+    "slider",
+    "carousel",
+    "tabs",
+    "tabmanager"
+  ],
+  "author": "M4D <mdugue@clever-age.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cleverage/ca.jquery.panels/issues"
+  },
+  "homepage": "https://github.com/cleverage/ca.jquery.panels"
+}
